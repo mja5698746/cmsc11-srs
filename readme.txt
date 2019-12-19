@@ -1,7 +1,8 @@
 # cmsc11-srs
 
+
 THE CMSC11 Student Registration System
-A simple and basic database system that records students and the subjects that they are enrolled in. This code was made in compliance for our CMSC11 subject. 
+A simple and basic database system that records students and the subjects that they are enrolled in. This group project (code) was made in compliance for our CMSC11 subject. 
 
 FEATURES:
 1.) The Student Records
@@ -33,3 +34,6 @@ FEATURES:
 
 Note: 
 	- some of the features may become glitchy upon importing of files
+	
+
+
